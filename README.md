@@ -10,4 +10,8 @@ The Bike_Share_Data_Cleaning_Changelog.docx file shows the steps I took to clean
 
 See the Bike_Share_Portfolio_Project_Queries.sql file for all of the SQL queries I wrote to analyze the data.
 
-Lastly, I put a Word document containing the project outline and my conclusions from my analysis of the data.
+The two Tableau dashboards I created for this project can be found via these links:
+Dashboard 1: https://public.tableau.com/app/profile/william.melahouris/viz/BikeSharePortfolioProjectDashboard1/Dashboard1?publish=yes
+Dashboard 2: https://public.tableau.com/app/profile/william.melahouris/viz/BikeSharePortfolioProjectDashboard2/Dashboard1?publish=yes
+
+I included a Word document containing the project outline and my conclusions from my analysis of the data.
